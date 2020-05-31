@@ -1,2 +1,9 @@
 # Project exclude paths
 /target/
+
+# IDEA config
+/.idea/
+/algorithms.iml
+
+# MacOS files
+**/.DS_Store
